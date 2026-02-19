@@ -1,1 +1,1 @@
-"# bare-minimum-android-app" 
+# bare-minimum-android-app
